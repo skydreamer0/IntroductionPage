@@ -1,0 +1,14 @@
+# Private documents
+ai_sales_transition_plan.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+*.swp
+*.swo
+
+# Logs
+*.log
