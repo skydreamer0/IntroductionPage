@@ -1,0 +1,48 @@
+/* -------------- VARIABLES -------------- */
+:root {
+    /* Color System - High-End Minimalist */
+    --clr-bg-primary: #F9F9F8;
+    /* Cream White */
+    --clr-bg-secondary: #F3F4F6;
+    /* Cool Gray */
+    --clr-text-main: #1A1A1A;
+    /* Obsidian Black */
+    --clr-text-muted: #64748B;
+    /* Slate Gray */
+    --clr-accent: #1E293B;
+    /* Midnight Blue */
+    --clr-accent-gold: #C5A880;
+    /* Champagne Gold (for subtle highlights) */
+    --clr-white: #FFFFFF;
+
+    /* Typography */
+    --font-serif: 'Playfair Display', serif;
+    --font-sans: 'Inter', sans-serif;
+
+    /* Font Sizes (Fluid Typography approach can be added later, static for now) */
+    --fs-display: 4.5rem;
+    /* Hero huge text */
+    --fs-h1: 3.5rem;
+    --fs-h2: 2.5rem;
+    --fs-h3: 1.5rem;
+    --fs-body: 1.125rem;
+    --fs-small: 0.875rem;
+
+    /* Spacing System */
+    --space-xs: 0.5rem;
+    --space-sm: 1rem;
+    --space-md: 2rem;
+    --space-lg: 4rem;
+    --space-xl: 6rem;
+    --space-xxl: 10rem;
+
+    /* Border & Transitions */
+    --border-radius-sm: 4px;
+    --border-radius-md: 8px;
+    --transition-fast: 0.2s ease;
+    --transition-slow: 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+
+    /* Layout */
+    --container-max: 1440px;
+    --container-padding: 2rem;
+}
